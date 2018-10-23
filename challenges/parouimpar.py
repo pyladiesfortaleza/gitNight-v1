@@ -10,7 +10,7 @@ Exemplo:
 $ verificapar.py 20
 par
 
-$ verificapar.py 20
+$ verificapar.py 21
 impar
 
 """
