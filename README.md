@@ -9,6 +9,9 @@ Alguns links de tutoriais que podem ser úteis para o aprendizado de git.
 * https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git [PT-BR]
 * https://www.atlassian.com/git/tutorials/what-is-git [EN]
 
+## Tutoriais python
+alguns links e apostilas interessantes sobre a linguagem Python
+* para os iniciantes: https://www.dcc.ufrj.br/~fabiom/python/pythonbasico.pdf [PT-BR] 
 
 ## Práticas:
 * helloworld
