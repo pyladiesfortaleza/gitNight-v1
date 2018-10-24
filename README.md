@@ -7,6 +7,7 @@ Alguns links de tutoriais que podem ser úteis para o aprendizado de git.
 * http://rogerdudler.github.io/git-guide/index.pt_BR.html [PT-BR]
 * https://br.udacity.com/blog/post/tutorial-iniciantes-git-github [PT-BR]
 * https://git-scm.com/book/pt-br/v1/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git [PT-BR]
+* https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1 [PT-BR]
 * https://www.atlassian.com/git/tutorials/what-is-git [EN]
 
 
